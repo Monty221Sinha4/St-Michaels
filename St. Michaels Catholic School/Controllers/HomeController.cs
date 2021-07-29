@@ -13,5 +13,13 @@ namespace St.Michaels_Catholic_School.Controllers
         {
             return View();
         }
+        public ActionResult AboutUs()
+        {
+            return View();
+        }
+        public ActionResult Admissions()
+        {
+            return View();
+        }
     }
 }
